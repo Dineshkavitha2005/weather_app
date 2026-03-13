@@ -281,10 +281,3 @@ For issues or questions:
 2. Review the code comments
 3. Consult the documentation links
 
-## 🎉 Version
-
-v1.0.0 - Initial Release
-
----
-
-**Built with ❤️ using React, Vite, and modern web technologies**
