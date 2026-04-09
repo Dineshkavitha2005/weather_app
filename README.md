@@ -270,10 +270,6 @@ EXPOSE 80
 CMD ["nginx", "-g", "daemon off;"]
 ```
 
-## 📄 License
-
-This project is open source and available for personal and commercial use.
-
 ## 🙋 Support
 
 For issues or questions:
