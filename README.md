@@ -270,10 +270,5 @@ EXPOSE 80
 CMD ["nginx", "-g", "daemon off;"]
 ```
 
-## 🙋 Support
 
-For issues or questions:
-1. Check the troubleshooting section
-2. Review the code comments
-3. Consult the documentation links
 
