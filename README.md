@@ -237,27 +237,6 @@ npm run preview
 - Allow location access for the domain
 - Use HTTP (not HTTPS) for localhost testing
 
-## 🚀 Deployment
-
-### Vercel (Recommended)
-```bash
-npm install -g vercel
-vercel
-```
-
-### Netlify
-```bash
-npm run build
-# Upload dist/ folder to Netlify
-```
-
-### GitHub Pages
-```bash
-# Add to vite.config.js: base: '/repo-name/'
-npm run build
-# Deploy dist/ to gh-pages branch
-```
-
 
 
 
