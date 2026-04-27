@@ -28,11 +28,7 @@ A modern, fully-featured weather forecast web application built with React, Vite
 - **Lucide Icons** - Beautiful icon set
 - **OpenWeatherMap API** - Weather data provider
 
-## 📋 Prerequisites
 
-- Node.js (v16 or higher)
-- npm or yarn package manager
-- OpenWeatherMap API key (already included)
 
 ## 🚀 Quick Start
 
